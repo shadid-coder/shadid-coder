@@ -1,45 +1,96 @@
-Hi, I'm it_Shadid 👋
+# Hi, I'm it_Shadid 👋
 
- FROM Bangladesh | 💻 Developer & Tech Enthusiast
+### CSE Student · Developer · Hobbyist
 
-I enjoy building things, experimenting with technology, and learning through real-world projects.
+I'm a Computer Science and Engineering student from Bangladesh.
+I enjoy learning through practical projects, building web applications,
+and exploring electronics and embedded systems.
 
-🛠️ What I Work With
+My goal is to strengthen my programming fundamentals and build useful,
+reliable software while learning how systems work behind the scenes.
 
-- 🐍 Python
-- 🌐 HTML, CSS, JavaScript
-- ⚛️ React / Next.js
-- 🟦 TypeScript
-- 🔌 Arduino
-- 📡 ESP32
-- 🗄️ SQL / PostgreSQL
-- 🧩 Git & GitHub
+## 👨‍💻 What I'm Working On
 
-🔧 Interests
+- Web development and responsive user interfaces
+- Full-stack development fundamentals
+- Personal portfolio and e-commerce projects
+- Arduino, ESP32, and hobby electronics
+- Improving my problem-solving and debugging skills
 
-- Web Development
-- IoT & Embedded Systems
-- Automation
-- Programming
-- AI-assisted Development
-- Building practical projects
+## 🛠️ Technologies I'm Learning and Using
 
-🚀 Projects
+**Languages**
+- C / C++
+- JavaScript
+- Python
+- TypeScript
 
-🐟 Shutki Corner — E-commerce & ordering platform
-🪙 Mirzasaif portfolio website 
+**Web Development**
+- HTML and CSS
+- React
+- Next.js
+- Node.js — learning and exploring
 
+**Data and Tools**
+- SQL / PostgreSQL
+- Git and GitHub
 
-More projects coming soon...
+**Electronics**
+- Arduino
+- ESP32
+- NRF24L01 wireless modules
 
-📚 Currently Learning
+> My experience varies by technology. I'm continuously learning
+> and improving through hands-on projects.
 
-Full-Stack Web Development, IoT, and better software engineering practices.
+## 🚀 Selected Projects
 
-🎯 My Goal
+### 🛒 Shutki Corner
+An e-commerce website project focused on presenting and selling products.
 
-Keep learning, keep building, and turn ideas into useful real-world projects.
+- [Live Website](https://shutki-corner.vercel.app/)
+- [Source Code](https://github.com/shadid-coder/shutki-corner)
+
+### 🎬 it_Shadid — Cinematic Portfolio
+My personal portfolio project, exploring interactive project
+showcases and scroll-based visual storytelling.
+
+- [Source Code](https://github.com/shadid-coder/Shadid-portfolio)
+
+### 🤖 OLED Companion Robot
+A hobby electronics project built around an ESP32-C3 SuperMini,
+a small OLED display, touch input, and a buzzer.
+
+### 📡 NRF24L01 Wireless Project
+A wireless transmitter/receiver project exploring communication
+between Arduino boards using NRF24L01 modules.
+
+### 🚁 ESP32 Mini Drone
+A planned hobby project exploring embedded programming and
+flight-control concepts.
+
+More details, demonstrations, and documentation will be added
+as each project develops.
+
+## 📚 Currently Learning
+
+- JavaScript fundamentals and problem solving
+- React and full-stack web development
+- APIs, databases, and software testing
+- Git workflows and project documentation
+- Embedded systems and electronics
+
+## 🎯 My Goal
+
+To become a capable software developer by understanding the code
+I write, solving real problems, and building projects that work
+reliably—not just demos that look good.
+
+## 🤝 Connect With Me
+
+- GitHub: [@shadid-coder](https://github.com/shadid-coder)
+- LinkedIn: [@I.T.Shadid ](https://www.linkedin.com/in/i-t-shadid)
 
 ---
 
-⭐ Feel free to explore my repositories.
+*Learning consistently. Building practically. Improving one project at a time.*
