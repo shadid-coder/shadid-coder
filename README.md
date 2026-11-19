@@ -48,7 +48,7 @@ reliable software while learning how systems work behind the scenes.
 
 ###🧑‍💻🧑🏻‍💻
 Type strike game for learning or practising typing.
-- Download link(
+- Download link(https://github.com/shadid-coder/Typestrike/releases/tag/v1.3.0)
 -  [Source Code](https://github.com/shadid-coder/Typestrike)
 
 ### 🛒 Shutki Corner
