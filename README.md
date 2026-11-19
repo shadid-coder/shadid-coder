@@ -1,8 +1,8 @@
 # Hi, I'm it_Shadid 👋
 
-### CSE Student · Developer · Hobbyist
+### Student · Developer · Hobbyist
 
-I'm a Computer Science and Engineering student from Bangladesh.
+I'm a student.
 I enjoy learning through practical projects, building web applications,
 and exploring electronics and embedded systems.
 
@@ -44,6 +44,12 @@ reliable software while learning how systems work behind the scenes.
 > and improving through hands-on projects.
 
 ## 🚀 Selected Projects
+
+
+###🧑‍💻🧑🏻‍💻
+Type strike game for learning or practising typing.
+- Download link(
+-  [Source Code](https://github.com/shadid-coder/Typestrike)
 
 ### 🛒 Shutki Corner
 An e-commerce website project focused on presenting and selling products.
